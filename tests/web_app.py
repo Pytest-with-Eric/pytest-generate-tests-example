@@ -1,3 +1,4 @@
+
 class WebApp:
     def __init__(self, user_role):
         self.user_role = user_role
