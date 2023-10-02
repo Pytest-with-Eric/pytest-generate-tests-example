@@ -1,11 +1,11 @@
 # pytest-generate-tests-example
 
-This repo contains the sample code for the article - 
+This repo contains the sample code for the article - [A Beginner's Guide To `pytest_generate_tests` (Explained With 2 Examples)](https://pytest-with-eric.com/introduction/pytest-generate-tests/)
 
-This project explains how to use Pytest_generate_tests to streamline your testing efforts and eliminate redundant code while achieving comprehensive test coverage
+This project explains how to use `pytest_generate_tests` to streamline your testing efforts and eliminate redundant code while achieving comprehensive test coverage
 
 # Requirements
-* Python (3.11.4)
+* Python (3.11+)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline
